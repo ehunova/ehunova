@@ -22,6 +22,3 @@
           
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehunova&theme=github_dark)   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehunova&theme=github_dark)          ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ehunova&theme=github_dark)
-
-
-![View Profile](https://komarev.com/ghpvc/?username=ehunova)
